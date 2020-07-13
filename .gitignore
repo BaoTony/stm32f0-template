@@ -1,10 +1,27 @@
-/Project/Objects/
-/Project/DebugConfig/
-/Project/.vscode/
-/Project/*.map
-/Project/*.jia
+*.bak
+ *.ddk
+ *.edk
+ *.lst
+ *.lnp
+ *.mpf
+ *.mpj
+ *.obj
+ *.omf
+ *.plg
+ *.rpt
+ *.tmp
+ *.__i
+ *.crf
+ *.o
+ *.d
+ *.axf
+ *.tra
+ *.dep          
+ JLinkLog.txt
+ *.iex
+ *.htm
+ *.sct
+ *.map
 *.Administrator
 *.uvopt
 *.uvoptx
-JLinkLog.txt
-!*.bin
