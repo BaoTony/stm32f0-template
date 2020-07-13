@@ -1,0 +1,6 @@
+/Project/Objects/
+/Project/DebugConfig/
+/Project/.vscode/
+*.map
+*.jia
+*.uvoptx
