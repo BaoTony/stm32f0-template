@@ -1,6 +1,10 @@
 /Project/Objects/
 /Project/DebugConfig/
 /Project/.vscode/
-*.map
-*.jia
+/Project/*.map
+/Project/*.jia
+*.Administrator
+*.uvopt
 *.uvoptx
+JLinkLog.txt
+!*.bin
